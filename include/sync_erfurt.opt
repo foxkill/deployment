@@ -1,0 +1,4 @@
+VERSION=1.0.12
+SRCDIR=/var/www/localhost/pfh/branches/RB-${VERSION}/intern_fern/.
+DSTDIR=RB-${VERSION}-erfurt/.
+SERVER=mypfh

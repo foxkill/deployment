@@ -1,0 +1,5 @@
+VERSION=1.0.12
+PROJECT=netpfhde
+SRCDIR=/var/www/localhost/pfh/branches/RB-${VERSION}/${PROJECT}/.
+DSTDIR=/home/admin/RB-${VERSION}-${PROJECT}/.
+SERVER=mypfh

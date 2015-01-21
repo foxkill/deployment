@@ -1,0 +1,11 @@
+GENARAL_OPTS="--cvs-exclude \
+--checksum \
+--archive \
+--verbose \
+--compress \
+--delete"
+
+GENERAL_EXCLUDE="--exclude-from=exclude/general.exc"
+RSYNC=/usr/bin/rsync
+FROMFILE=/root/bin/x
+DRYRUN="--dry-run"

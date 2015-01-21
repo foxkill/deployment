@@ -1,0 +1,6 @@
+OPENVPN_VERSION=1.0.12
+OPENVPN_EXCLUDE="--exclude-from=exclude/openvpn.exc"
+OPENVPN_BASEDIR=/var/www/localhost/pfh/branches/RB-${OPENVPN_VERSION}
+OPENVPN_DIR=${OPENVPN_BASEDIR}
+OPENVPN_FILES="intern_fern/researchdatabases.php intern_fern/eo_documents/VPN_Download-Anleitung.pdf intern_fern/eo_documents/VPN_Mac_Anleitung.pdf easy-rsa build-ca.sh client.ovpn"
+
